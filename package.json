@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/cozy/cozy-vcard"
   },
+  "files": [
+    "lib/index.js"
+  ],
   "keywords": [
     "ical",
     "calendar"
